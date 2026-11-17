@@ -1,0 +1,18 @@
+Code,Subregion,longitude,latitude,Location ,State,Area (ha),Altitude (m.s.m),Species richness,Reference
+BON_MS,Mesotrófico,-56.6269445,-21.0980555,Bonito ,MS,493.400,200-600,51,BOB
+EEP_MG,Meridional,-48.393488,-19.182219,Estação Ecológica do Panga ,MG,409,740-840,53,"Arantes et al. (2007b), (2007a), (2008a), (2008d), (2008c), (2008b), (2010b), (2010a)"
+EESGT_TO,Norte-nordeste,-46.6925,-10.856944,Estação Ecológica Serra Geral do Tocantins ,BA; TO,716.000,400-730,35,Schindler et al. (2023)
+GUI_MT,Centro-oeste,-55.870036,-15.290325,Chapada dos Guimarães ,MT,33.000,180-860,70,BOB
+JBMB_SP,Meridional,-49.012114,-22.345739,Jardim Botânico Municipal de Bauru,SP,"321,71",510-540,49,"Nóbrega; Prado, (2008)"
+PEM_MA,Norte-nordeste,-45.132702,-6.546198,Parque Estadual do Mirador ,MA,767,300-600,29,Oliveira et al. (2025)
+PESCA_MG,Centro-sudeste,-44.235417,-17.850612,Parque Estadual da Serra do Cabral,MG,22.444,900-1300,44,"Salino, Almeida (2008)"
+PESGM_MG,Centro-sudeste,-42.844291,-16.407568,Parque Estadual Serra Grão-Mogol,MG,28.391,650-1100,77,"Prado, Labiak (2003)"
+PIRI_GO,Centro-sudeste,-48.8086,-16.03204,Parque dos Pireneus ,GO,"2.833,26",700-1385,73,BOB
+PNCM_MA,Norte-nordeste,-47.144687,-7.15247,Parque Nacional da Chapada das Mesas,MA,159.951,250-524,86,Fernandes et al. (2022)
+PNCP_MG,Centro-sudeste,-44.2476,-15.0788,Parque Nacional Cavernas do Peruaçu,MG,56.448,450-850,45,Lombardi et al. (2005)
+PNNRP_MA,Norte-nordeste,-45.9675,-10.033889,Parque Nacional das Nascentes do Rio Parnaíba,"MA, TO, PI, BA",749.765,400-800,33,"Castro-Aguiar et al. (2024), (2024b)"
+RBMV_MT,Centro-oeste,-52.35,-14.716667,Reserva Biológica Mário Viana,MT,490,250-300,25,Athayde-Filho & Windisch (2004)
+RECOR_DF,Centro-sudeste,-47.878464,-15.948213,Reserva Ecológica do IBGE ,DF,1.300,1048-11160,51,Novelino et al. (2011)
+SRCU_SP,Meridional,-47.666667,-22.1,Serra do Cuscuzeiro ,SP,584,800-1050,104,Salino (19996)
+VER_GO,Centro-oeste,-50.768886,-18.550767,Chapada dos Veadeiros ,GO,240.611,600 - 1676,38,bases online de biodiversidade
+XAVAN_MT,Centro-sudeste,-52.3531,-14.6733,Nova Xavantinha ,MT,549.221,230-793,33,BOB
